@@ -1,0 +1,7 @@
+S001;CentroA;Pucón;120.50
+S002;CentroB;Temuco;150.0
+S003;CentroC;Freire;80.50
+S004;CentroD;Loncoche;160.0
+S005;CentroE;Puerto Montt;200
+S006;CentroF;Temuco;30.0
+
