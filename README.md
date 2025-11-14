@@ -10,7 +10,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 ## 🧱 Estructura general del proyecto
 
 ```
-📦 Duoc_Sem4_SalmonttApp/
+📦 Salmontt-Colecciones/
 ┣ 📂 .idea/
 ┣ 📂 resources/
 ┃ ┃ ┣ 📜 Cultivos.txt	
@@ -33,7 +33,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 ### 1. clonar el repositorio
 ```bash
-git clone https://github.com/matisuarezm/Duoc_Sem4_SalmonttApp.git
+git clone https://github.com/matisuarezm/Salmontt-Colecciones.git
 ```
 ### 2. Abre el proyecto en tu IDE Favorito, éste fue creado en IntelliJ.
 ### 3. Abre la clase Main del paquete app/
