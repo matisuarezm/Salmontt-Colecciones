@@ -1,9 +1,20 @@
 # 📘 Proyecto: Lectura archivo TXT - Centros de Cultivo
 
 ## 📝 Descripción general del sistema
-Este proyecto corresponde a la evaluación formativa del segundo bimestre correspondiente a la asignatura *Desarrollo Orientado a Objetos I*. Se trata de una aplicacion Java orientada a objetos para ralizar la lectura de un archivo externo en formato TXT.
+Este proyecto corresponde a la evaluación formativa del segundo bimestre correspondiente a la asignatura *Desarrollo Orientado a Objetos I*.
 
-El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
+El objetivo del proyecto consta en desarrollar una aplicacion Java para gestionar y visualizar los datos de produccion de los centros de cultivo de la empresa Salmontt, especializada en la producción y exportación de productos del sur de chile (especialmente salmones).
+
+Las funciones principales del sistema son las siguientes:
+
+- Lectura automatica de un archovos de texto plano, el cual contiene informacion estructurada de cada centro de cultivo (id, nombre, comuna, produccion en toneladas).
+- Conversion y alamcenamiento de cada registro leido en objetos de la clase **ProduccionCultivos**.
+- Presentación y visualización de todos los centors de cultivos registrados de forma legible por consola.
+- Contiene validaciones de formato de los datos y notificaciones claras en caso de errores o problemas al leer el archivo.
+
+Resumen
+
+El proyecto es una aplicacion de consola Java,con estructura modular y buenas practicas de manejo de datos, pensada para automatizar la gestion y análisis inicial de la produccion de centros de cultivo, priorizando claridad, robustez y base escalable para futuras mejoras.
 
 ---
 
